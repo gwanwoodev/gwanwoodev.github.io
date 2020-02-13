@@ -2,7 +2,7 @@
 title: Gwanlog # your site title
 author: gwanwoodev # You :P
 description: > # Meta description of Homepage
-  
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gwanwoodev.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -19,19 +19,19 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - { name: "Home", link: "/" }
+  - { name: "About", link: "/about" }
+  - { name: "Contact", link: "/contact" }
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  MERN Stack Developer's Blog.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: gwanwoodev@kakao.com # email for form submission
 
 twitter_username: gwanwoodev # replace with your_twitter_username or comment to remove link from footer
-github_username:  gwanwoodev # replace with your_github_username or comment to remove link from footer
+github_username: gwanwoodev # replace with your_github_username or comment to remove link from footer
 instagram_username: gwanwoo.king # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
@@ -58,7 +58,7 @@ exclude:
   - gulpfile.js
   - sleek.jpg
 
-include: ['_pages']
+include: ["_pages"]
 permalink: /:title/
 
 compress_html:
