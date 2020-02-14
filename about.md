@@ -4,10 +4,42 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+## Gwanwoo Park
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+---
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Software Engineer at
+
+[Republic of Korea Army Ministry of National Defense](https://army.mil.kr/)
+
+
+## Work Experience
+
+* 육군본부 SW 개발병 (2019.02.11 ~ 2020.09.16)
+
+## Awards
+
+* 2019, 국방 오픈소스 아카데미 <span style="color:skyblue; font-weight: bold;">국방부 장관상(1위)</span> 수상
+
+## Skills
+
+### Programming Languages
+
+* Python / Javascript(ES6+)
+
+### Framework / Libraries
+* Django / Node Express.js
+* React.js / Redux / Next.js / Jest.js
+* Webpack / Sass
+* GraphQL / Apollo
+* Electron
+* ReactNative
+
+## Portfolio
+
+* 국방부 장관상 수상 작품 [Be-Light](https://github.com/gwanwoodev/be-light)
+
+
+## Contact
+
+[Contact Me](https://gwanwoodev.github.io/contact)
