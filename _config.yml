@@ -5,7 +5,8 @@ description: > # Meta description of Homepage
   MongoDB, Express.js, React.js, Node.js Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gwanwoodev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+future: true
+timezone: KR
 # SEO PLUGIN
 social:
   name: GwanwooPark
