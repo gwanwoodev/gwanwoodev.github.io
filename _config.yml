@@ -4,7 +4,7 @@ author: gwanwoodev # You :P
 description: > # Meta description of Homepage
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gwanwoodev.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gwanwoodev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
