@@ -10,7 +10,7 @@ url: "https://gwanwoodev.github.io" # the base hostname & protocol for your site
 social:
   name: GwanwooPark
   links:
-    - https://twitter.com/
+    - https://twitter.com
     - https://www.facebook.com/yeon.kr
     - https://www.linkedin.com/in/gwanwoodev
     - https://plus.google.com/+gwanwoodev
@@ -26,7 +26,7 @@ navigation: # Navigation links
 tagline: >
   MERN Stack Developer's Blog.
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/emile-perron-190221_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: gwanwoodev@kakao.com # email for form submission
 
