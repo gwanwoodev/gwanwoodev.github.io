@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lorem ipsum dolor sit amet
+title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt
 featured-img: test
 categories: Test
 ---
