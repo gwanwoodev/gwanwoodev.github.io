@@ -19,7 +19,7 @@ Software Engineer at
 
 ## Awards
 
-* 2019, 국방 오픈소스 아카데미 <span style="color:skyblue; font-weight: bold;">국방부 장관상(1위)</span> 수상
+* 2019, 국방 오픈소스 아카데미 <span style="color:cornflowerblue; font-weight: bold;">국방부 장관상(1위)</span> 수상
 
 ## Skills
 
