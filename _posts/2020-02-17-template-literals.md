@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "템플릿 리터럴로 동적인 문자열 생성하기"
+title: "ES6 템플릿 리터럴로 동적인 문자열 생성하기"
 featured-img: template_literals
 categories: [ES6, Javascript]
 ---
