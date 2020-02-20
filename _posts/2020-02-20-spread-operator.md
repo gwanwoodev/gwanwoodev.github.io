@@ -3,6 +3,7 @@ layout: post
 title: "ES6 전개 연산자(Spread Operator)"
 featured-img: spread_operator
 categories: [ES6, Javascript]
+date: 2020-02-20 11:00
 ---
 
 # ES6 전개 연산자(Spread Operator)
