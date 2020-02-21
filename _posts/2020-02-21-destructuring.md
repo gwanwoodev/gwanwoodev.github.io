@@ -92,7 +92,7 @@ console.log(rest2); // []
 
 ```javascript
 const obj = {nick: 'gwanwoodev', name: 'gwanwoopark'};
-const {nickname, fullname} = obj;
+const {nick, name} = obj;
 console.log(nickname); // gwanwoodev
 console.log(fullname); // gwanwoopark
 ```
