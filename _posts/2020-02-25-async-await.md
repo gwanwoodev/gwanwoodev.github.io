@@ -6,7 +6,7 @@ categories: [ES6, Javascript]
 date: 2020-02-25 14:17
 ---
 
-# ES6 async/await
+# ES6+ async/await
 
 async/await는 비동기 프로그래밍을 동기 프로그래밍 처럼 작성할 수 있도록,
 <br>
