@@ -6,7 +6,7 @@ description: > # Meta description of Homepage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gwanwoodev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 future: true
-timezone: KR
+timezone: Asia/Seoul
 # SEO PLUGIN
 social:
   name: GwanwooPark
