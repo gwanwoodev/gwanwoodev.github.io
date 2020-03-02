@@ -280,7 +280,6 @@ function hanbin() {
     const gen = gwanwoo();
 
     for(const message of myMessageList) {
-        console.log(message);
         console.log('Gwanwoo:', gen.next(message).value);
     }
 }
