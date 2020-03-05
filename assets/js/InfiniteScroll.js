@@ -21,34 +21,13 @@ class InfiniteScroll {
         this.enable = false;
 
         fetch(`${location.origin + this.path + this.pNum}/index.html`).then(response => {
-            if(response.status === 200) {
-                return response.text();
-            }else {
-                throw new Error("DONE");
-            }
+            if(response.status === 200) { return response.text(); }
         }).then(responseText => {
             const childItems = this.getChildItemsByAjaxHTML(responseText);
             this.appendNewItems(childItems);
             this.pNum++;
             return this.enable = true;
-        }).catch(e => {
-            console.log(e);
-        });
-
-        /*
-        const xmlhttp = new XMLHttpRequest();
-        xmlhttp.onreadystatechange = () => {
-            if (xmlhttp.readyState == XMLHttpRequest.DONE) {
-                if (xmlhttp.status == 200) {
-                    const childItems = this.getChildItemsByAjaxHTML(xmlhttp.responseText);
-                    this.appendNewItems(childItems);
-                    this.pNum++;
-                }
-                return this.enable = true;
-            }
-        }
-        xmlhttp.open("GET", `${location.origin + this.path + this.pNum}/index.html`, true);
-        xmlhttp.send();*/
+        }).catch(e => {});
     }
 
     getChildItemsByAjaxHTML(HTMLText) {
