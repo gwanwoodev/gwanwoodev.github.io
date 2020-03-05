@@ -19,6 +19,23 @@ class InfiniteScroll {
     getNewPost() {
         if (this.enable === false) return false;
         this.enable = false;
+
+        fetch(`${location.origin + this.path + this.pNum}/index.html`).then(response => {
+            if(response.status === 200) {
+                return response.text();
+            }else {
+                throw new Error("DONE");
+            }
+        }).then(responseText => {
+            const childItems = this.getChildItemsByAjaxHTML(responseText);
+            this.appendNewItems(childItems);
+            this.pNum++;
+            return this.enable = true;
+        }).catch(e => {
+            console.log(e);
+        });
+
+        /*
         const xmlhttp = new XMLHttpRequest();
         xmlhttp.onreadystatechange = () => {
             if (xmlhttp.readyState == XMLHttpRequest.DONE) {
@@ -31,7 +48,7 @@ class InfiniteScroll {
             }
         }
         xmlhttp.open("GET", `${location.origin + this.path + this.pNum}/index.html`, true);
-        xmlhttp.send();
+        xmlhttp.send();*/
     }
 
     getChildItemsByAjaxHTML(HTMLText) {
