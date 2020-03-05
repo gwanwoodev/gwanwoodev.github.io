@@ -30,10 +30,12 @@ layout: compress
       <section class="blog">
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-
+            
+            {%- if paginator.posts -%}
             {% for post in paginator.posts %}
               {% include card.html %}
             {% endfor %}
+            {%- endif -%}
 
             <!-- {% include pagination.html %} -->
           </div>
@@ -43,6 +45,12 @@ layout: compress
 
     {% include footer.html %}
 
+    <script src="{{ '/assets/js/InfiniteScroll.js' }}"></script>
+    <script>
+      const postWrapperId = "post-list";
+      const paginatePath = "/page/";
+      new InfiniteScroll(paginatePath, postWrapperId)
+    </script>
   </body>
 
 </html>
