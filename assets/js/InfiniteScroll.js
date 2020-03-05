@@ -37,7 +37,7 @@ class InfiniteScroll {
     getChildItemsByAjaxHTML(HTMLText) {
         const newHTML = document.createElement('html');
         newHTML.innerHTML = HTMLText;
-        const childItems = newHTML.querySelectorAll(`#${this.wrapperId} > *`);
+        const childItems = newHTML.querySelectorAll(`.${this.wrapperId} > *`);
         return childItems;
     }
 
