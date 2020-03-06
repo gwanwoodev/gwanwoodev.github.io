@@ -4,6 +4,7 @@ title: Categories
 permalink: /categories/
 ---
 
+<div><b>Ctrl + F로 검색해보세요</b></div>
 <div>
 {% for category in site.categories %}
   <div class="archive-group">
