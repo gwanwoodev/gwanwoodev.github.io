@@ -1,10 +1,10 @@
 class InfiniteScroll {
-    constructor (path, wrapperId) {
-        if (path === undefined || wrapperId === undefined) throw Error ('no parameter.');
+    constructor (path, wrapperSelector) {
+        if (path === undefined || wrapperSelector === undefined) throw Error ('no parameter.');
         this.path = path;
         this.pNum = 2;
-        this.wNode = document.querySelector("."+wrapperId);
-        this.wrapperId = wrapperId;
+        this.wNode = document.querySelector(wrapperSelector);
+        this.wrapperSelector = wrapperSelector;
         this.enable = true;
 
         this.detectScroll();
@@ -33,7 +33,7 @@ class InfiniteScroll {
     getChildItemsByAjaxHTML(HTMLText) {
         const newHTML = document.createElement('html');
         newHTML.innerHTML = HTMLText;
-        const childItems = newHTML.querySelectorAll(`.${this.wrapperId} > *`);
+        const childItems = newHTML.querySelectorAll(`.${this.wrapperSelector} > *`);
         return childItems;
     }
 
