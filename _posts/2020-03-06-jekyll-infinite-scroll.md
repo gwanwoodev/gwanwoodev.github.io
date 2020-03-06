@@ -30,45 +30,19 @@ Card 형식에는 무한 스크롤이 더 예쁠것 같아서 검색해서 찾�
 
 Gemfile과 _config.yml 파일에 아래 내용을 추가 해줍시다.
 
-```javascript
-/* Gemfile */
+<script src="https://gist.github.com/gwanwoodev/220cf1e624718e2c9ae8324dfb9df9f3.js"></script>
 
-group :jekyll_plugins do
-    gem "jekyll-paginate"
-end
-```
+<script src="https://gist.github.com/gwanwoodev/e01c2dcec1d03b77d0897dffb4067fdb.js"></script>
 
-```javascript
-/* _config.yml */
-
-plugins:
-  - ...
-  - ...
-  - jekyll-paginate
-
-paginate: 6 /* 한 페이지에 보여질 게시글 수 입니다. */
-paginate_path: "/page/:num" /* /page/2 와 같은 형태로 접근 */
-```
+paginate는 한 페이지에 보여질 게시글 수이며,
+<br>
+paginate_path는 /page/2 와같은 형태로 접근하도록 했습니다.
 
 그리고 화면에 포스트들을 뿌려주는 html을 수정해야합니다. (index의 레이아웃)
 
 제가 쓰는 테마 같은 경우는 default.html 입니다.
 
-```javascript
-/* default.html */
-
-/* before */
-{% for post in site.posts %}
-    {% include card.html %}
-{% endfor %}
-
-/* after */
-{%- if paginator.posts -%}
-    {% for post in paginator.posts %}
-        {% include card.html %}
-    {% endfor %}
-{%- endif -%}
-```
+<script src="https://gist.github.com/gwanwoodev/2cb92dce439adb6ba7edafdf468a75b9.js"></script>
 
 site.posts 를 paginator.posts로 바꿔주시면 됩니다.
 
@@ -105,17 +79,7 @@ site.posts 를 paginator.posts로 바꿔주시면 됩니다.
 
 다운 받으셨으면, 적용을 해주어야 겠죠?
 
-```javascript
-/* default.html */
-//...
-/* body 최하단 */
-<script src="{{ '/assets/js/InfiniteScroll.js' }}"></script>
-<script>
-    const postWrapper = ".post-list";
-    const paginatePath = "/page/";
-    new InfiniteScroll(paginatePath, postWrapper)
-</script>
-```
+<script src="https://gist.github.com/gwanwoodev/06aa6b1d5625dfe7dd323bd5fdb06bbc.js"></script>
 
 라이브러리를 불러와주고, 변수에 값을 넣어놓았습니다.
 
