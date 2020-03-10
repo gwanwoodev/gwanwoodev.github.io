@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "현 SW개발병이 알려주는 SW개발병 지원부터 복무"
+title: "SW개발병 지원부터 복무까지"
 featured-img: sw_background
 categories: [Life]
 date: 2020-03-10 13:41
 ---
 
-# 현 SW개발병이 알려주는 SW개발병 지원부터 복무
+# SW개발병 지원부터 복무까지
 
 필자는 현재 SW개발병 으로 복무중이다..
 
