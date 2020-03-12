@@ -126,6 +126,10 @@ input이 사라지게 되고, 메세지가 뜨도록 구현해야 합니다.
 }
 ```
 
+아래 내용은 이번 포스팅 에서의 완성된 app.css 입니다.
+
+<script src="https://gist.github.com/gwanwoodev/83aecb3d8eb4c3a31c766424f886a031.js"></script>
+
 ***
 
 ![momentum_example07](https://gwanwoodev.github.io/assets/upload/momentum_example07.jpg)
