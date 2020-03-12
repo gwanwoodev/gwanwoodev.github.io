@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "SW개발병 지원부터 복무까지"
+title: "SW개발병 지원부터 복무까지 2020년 ver."
 featured-img: sw_background
 categories: [Life]
-date: 2020-03-10 13:41
+date: 2020-03-12 09:42
 ---
 
-# SW개발병 지원부터 복무까지
+# SW개발병 지원부터 복무까지 2020년 ver.
 
 필자는 현재 SW개발병 으로 복무중이다..
 
@@ -73,7 +73,7 @@ SW개발병은 모집 전문특기병으로, 1차 서류평가와 2차 면접평
 
 1차 서류에 합격하게 되면 면접일자가 나오는데 
 <br>
-면접 질문은 개개인 마다 Case By Case 같다.
+면접 질문은 개개인 마다 Case By Case 인 것 같다.
 
 필자는 기본적인 질문을 받았다. (보안상 문제로 면접 질문은 알려줄 수 없다.)
 
@@ -131,4 +131,4 @@ SW개발병은 모집 전문특기병으로, 1차 서류평가와 2차 면접평
 
 SW개발병에 관심이 있는 사람은 댓글 혹은 이메일을 주길 바란다.
 
-Email: gwanwoodev@kakao.com
+[이메일 보내기](https://gwanwoodev.github.io/contact/)
