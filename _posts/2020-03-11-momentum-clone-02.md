@@ -4,6 +4,7 @@ title: "Momentum Clone 02. HTML 뼈대 만들기"
 featured-img: momentum_base
 categories: [Clone, Side Project]
 date: 2020-03-11 09:23
+image: /assets/img/posts/momentum_base_thumb.jpg
 ---
 
 # Momentum Clone 02. HTML 뼈대 만들기
