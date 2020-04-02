@@ -3,7 +3,7 @@ layout: post
 title: "Do it! 타입스크립트 프로그래밍 서적 리뷰"
 featured-img: doit_typescript
 categories: [Review, Typescript]
-date: 2020-04-02 13:45
+date: 2020-04-02 14:20
 image: /assets/img/posts/doit_typescript_thumb.jpg
 ---
 
