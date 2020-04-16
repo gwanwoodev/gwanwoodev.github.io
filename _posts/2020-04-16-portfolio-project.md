@@ -45,11 +45,11 @@ Demo는 글 하단의 링크를 통해 볼 수 있다.
 
 <b>모바일 반응형</b>
 
-![portfolio-1](https://gwanwoodev.github.io/assets/upload/portfolio-1.jpg)
+![portfolio-2](https://gwanwoodev.github.io/assets/upload/portfolio-2.jpg)
 
 <b>PC</b>
 
-![portfolio-2](https://gwanwoodev.github.io/assets/upload/portfolio-2.jpg)
+![portfolio-1](https://gwanwoodev.github.io/assets/upload/portfolio-1.jpg)
 
 ### [Demo](https://portfolio.gwanwoodev.now.sh)
 
