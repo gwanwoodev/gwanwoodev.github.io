@@ -28,6 +28,12 @@ navigation: # Navigation links
 tagline: >
   MERN Stack Developer's Blog.
 
+ph: >
+  PH: 010-6778-0118
+
+em: >
+  EM: gwanwoodev@kakao.com
+
 hero_img: posts/march-logo.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: gwanwoodev@kakao.com # email for form submission
