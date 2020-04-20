@@ -2,7 +2,7 @@
 layout: post
 title: "npm 과 npx 차이"
 featured-img: npm_and_npx
-categories: [React.js]
+categories: [Node.js]
 date: 2020-04-20 14:23
 image: /assets/img/posts/npm_and_npx_thumb.jpg
 ---
