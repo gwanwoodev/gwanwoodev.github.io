@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "React.js 02. 리액트 개발 환경 구성하기"
-featured-img: featured_reactjs
+featured-img: settings_enviroment_reactjs
 categories: [React.js]
 date: 2020-04-20 10:13
 image: /assets/img/posts/settings_enviroment_reactjs_thumb.jpg
