@@ -77,7 +77,9 @@ create-react-app blg-react
 
 <b>잠깐! npx와 npm의 차이가 무엇 인가요?</b> 
 
-<i>이 부분에 대해서는 따로 포스팅을 할 예정입니다.</i>
+아래 링크의 글을 읽어 보시기 바랍니다.
+
+[NPM vs NPX](https://gwanwoodev.github.io/npm-and-npx)
 
 blg-react는 생성할 프로젝트의 폴더 명입니다.
 
