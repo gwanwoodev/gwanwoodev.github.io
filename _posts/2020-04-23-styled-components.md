@@ -264,32 +264,7 @@ export default color;
 
 이 color 테마를 import해서 Provider 방식으로 사용할 수 있습니다.
 
-```javascript
-import React from "react";
-import Styled, {ThemeProvider} from "styled-components";
-import color from "./color";
-
-const Button = Styled.button`
-  background-color: black;
-  color: ${props => {
-    return props.palevioletred ? color.palevioletred : color.default;
-  }};
-  padding: 8px 16px;
-  border: none;
-  border-radius: 20px;
-`;
-
-function App() {
-  return(
-    <ThemeProvider theme={color}>
-      <Button default>Default Button</Button>
-      <Button palevioletred>Palevioletred Button</Button>
-    </ThemeProvider>
-  )
-}
-
-export default App;
-```
+<script src="https://gist.github.com/gwanwoodev/2814a043dbbc822af1d78718d6fa9344.js"></script>
 
 ThemeProvider의 theme이라는 props에 import한 color 객체를 넣어주었습니다.
 
