@@ -3,7 +3,7 @@ layout: post
 title: "React.js 04. 리액트 props"
 featured-img: reactjs_with_props
 categories: [React.js]
-date: 2020-04-27 10:23
+date: 2020-04-27 10:02
 image: /assets/img/posts/reactjs_with_props_thumb.jpg
 ---
 
