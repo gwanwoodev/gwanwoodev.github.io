@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "React.js 04. 리액트 props"
+title: "React.js 04. 리액트 Props"
 featured-img: reactjs_with_props
 categories: [React.js]
 date: 2020-04-27 10:02
