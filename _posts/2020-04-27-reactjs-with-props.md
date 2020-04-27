@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "React.js 04. 리액트 Props"
+title: "React.js 04. 리액트 Props로 값 전달하기"
 featured-img: reactjs_with_props
 categories: [React.js]
 date: 2020-04-27 10:02
