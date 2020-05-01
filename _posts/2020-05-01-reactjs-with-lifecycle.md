@@ -34,7 +34,7 @@ componentDidMount API는 Component가 <b>화면에 나타나게 됬을때</b> �
 <i> 사용 빈도가 높습니다 </i>
 
 
-## static getDerivedStateFromProps()
+## static getDerivedStateFromProps
 
 getDerivedStateFromProps는 props로 받아온 value를 state로 동기화 하는 작업을 할때 사용합니다.
 
