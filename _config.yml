@@ -34,6 +34,8 @@ ph: >
 em: >
   EM: gwanwoodev@kakao.com
 
+lang: ko-kr
+
 hero_img: posts/march-logo.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: gwanwoodev@kakao.com # email for form submission
