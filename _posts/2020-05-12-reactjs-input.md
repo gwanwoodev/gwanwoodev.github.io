@@ -3,7 +3,7 @@ layout: post
 title: "React.js 08. Input"
 featured-img: reactjs_input
 categories: [React.js]
-date: 2020-05-12 14:
+date: 2020-05-12 15:16
 image: /assets/img/posts/reactjs_input_thumb.jpg
 ---
 
