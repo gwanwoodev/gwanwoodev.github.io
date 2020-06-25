@@ -3,7 +3,7 @@ layout: post
 title: "React.js 09. Array (1)"
 featured-img: reactjs_array
 categories: [React.js]
-date: 2020-06-25 13:15
+date: 2020-06-25 14:15
 image: /assets/img/posts/reactjs_array_thumb.jpg
 ---
 
