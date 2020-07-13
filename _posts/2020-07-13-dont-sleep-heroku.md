@@ -34,7 +34,7 @@ Wake up 상태를 유지할 수 있다. 신용카드를 등록하면 하루종�
 
 친절한 외국의 누군가가 30분 주기로 트래픽을 보내주는 녀석을 찾았다.
 
-<h2>[Kaffeine](http://kaffeine.herokuapp.com/)</h2>
+[Kaffeine](http://kaffeine.herokuapp.com/)
 
 ![heroku_example_01](https://gwanwoodev.github.io/assets/upload/heroku_example_01.jpg)
 
