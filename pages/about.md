@@ -28,7 +28,7 @@ Software Engineer at
 * Python / Javascript(ES6+)
 
 ### Framework / Libraries
-* Django / Flask / Express.js / Koa.js
+* Express.js / Deno
 * React.js / Redux / Next.js / Jest.js
 * Webpack / Sass / Styled-Components
 * GraphQL / Apollo
