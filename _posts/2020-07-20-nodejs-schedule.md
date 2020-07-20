@@ -5,6 +5,7 @@ featured-img: nodejs_schedule
 categories: [Node.js, Node-Cron, Schedule]
 date: 2020-07-20 12:36
 image: /assets/img/posts/nodejs_schedule_thumb.jpg
+author: gwanwoodev
 ---
 
 # Node.js 스케쥴 설정 하기
