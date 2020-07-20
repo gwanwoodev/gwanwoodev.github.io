@@ -5,6 +5,7 @@ featured-img: dont_sleep_heroku
 categories: [Heroku, Deploy]
 date: 2020-07-13 13:25
 image: /assets/img/posts/dont_sleep_heroku_thumb.jpg
+author: gwanwoodev
 ---
 
 # Heroku 아주 쉽게 Sleep 방지 하는 방법
