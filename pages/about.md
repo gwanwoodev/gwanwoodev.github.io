@@ -12,35 +12,35 @@ Software Engineer at
 
 [Republic of Korea Army Ministry of National Defense](https://army.mil.kr/)
 
-
 ## Work Experience
 
-* 육군본부 SW 개발병 (2019.02.11 ~ 2020.09.16)
+- 육군본부 SW 개발병 (2019.02.11 ~ 2020.09.16)
 
 ## Awards
 
-* 2019, 국방 오픈소스 아카데미 <span style="color:cornflowerblue; font-weight: bold;">국방부 장관상(1위)</span> 수상
+- 2019, 국방 오픈소스 아카데미 <span style="color:cornflowerblue; font-weight: bold;">국방부 장관상(1위)</span> 수상
+- 2016, 제 3회 디지털 정보활용 능력 경진대회 <span style="color:cornflowerblue; font-weight: bold;">시의장상</span> 수상
 
 ## Skills
 
 ### Programming Languages
 
-* Python / Javascript(ES6+)
+- Python / Javascript(ES6+)
 
 ### Framework / Libraries
-* Express.js / Deno
-* React.js / Redux / Next.js / Jest.js
-* Webpack / Sass / Styled-Components
-* GraphQL / Apollo
-* Typescript
-* Docker
-* Electron
-* ReactNative
+
+- Express.js / Deno
+- React.js / Redux / Next.js / Jest.js
+- Webpack / Sass / Styled-Components
+- GraphQL / Apollo
+- Typescript
+- Docker
+- Electron
+- ReactNative
 
 ## Portfolio
 
-* 국방부 장관상 수상 작품 [Be-Light](https://github.com/gwanwoodev/be-light)
-
+- 국방부 장관상 수상 작품 [Be-Light](https://github.com/gwanwoodev/be-light)
 
 ## Contact
 
