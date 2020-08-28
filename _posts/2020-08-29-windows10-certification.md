@@ -43,11 +43,11 @@ author: gwanwoodev
 
 ## 실전! 적용해보기
 
-1. CMD를 관리자권한으로 실행시켜 줍시다.
+첫번째, CMD를 관리자권한으로 실행시켜 줍시다.
 
 ![windows_auth_01](https://gwanwoodev.github.io/assets/upload/windows_auth01.jpg)
 
-2. 아래 명령어를 입력해주고 팝업창이 뜰때까지 조금 기다려 줍니다. 똑같이 입력하면 안되고, 위에서 확인한 자신의 Windows 타입에 맞는 CD-KEY를 입력 하셔야 합니다.
+두번째, 아래 명령어를 입력해주고 팝업창이 뜰때까지 조금 기다려 줍니다. 똑같이 입력하면 안되고, 위에서 확인한 자신의 Windows 타입에 맞는 CD-KEY를 입력 하셔야 합니다.
 
 ```terminal
 slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
@@ -55,7 +55,7 @@ slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 
 ![windows_auth_02](https://gwanwoodev.github.io/assets/upload/windows_auth02.jpg)
 
-3. 아래 명령어를 똑같이 입력해주고 마찬가지로 팝업창이 뜰때까지 기다려 줍니다.
+세번째, 아래 명령어를 똑같이 입력해주고 마찬가지로 팝업창이 뜰때까지 기다려 줍니다.
 
 ```terminal
 slmgr /skms kms8.msguides.com
@@ -63,7 +63,7 @@ slmgr /skms kms8.msguides.com
 
 ![windows_auth_03](https://gwanwoodev.github.io/assets/upload/windows_auth03.jpg)
 
-4. 3번과 마찬가지로 아래 명령어를 입력해주고 기다려주면 끝입니다.
+네번째, 3번과 마찬가지로 아래 명령어를 입력해주고 기다려주면 끝입니다.
 
 ```terminal
 slmgr /ato
