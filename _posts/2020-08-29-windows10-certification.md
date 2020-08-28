@@ -45,7 +45,7 @@ author: gwanwoodev
 
 1. CMD를 관리자권한으로 실행시켜 줍시다.
 
-![windows_auth_01](https://gwanwoodev.github.io/assets/upload/windows_auth_01.jpg)
+![windows_auth_01](https://gwanwoodev.github.io/assets/upload/windows_auth01.jpg)
 
 2. 아래 명령어를 입력해주고 팝업창이 뜰때까지 조금 기다려 줍니다. 똑같이 입력하면 안되고, 위에서 확인한 자신의 Windows 타입에 맞는 CD-KEY를 입력 하셔야 합니다.
 
@@ -53,7 +53,7 @@ author: gwanwoodev
 slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 ```
 
-![windows_auth_02](https://gwanwoodev.github.io/assets/upload/windows_auth_02.jpg)
+![windows_auth_02](https://gwanwoodev.github.io/assets/upload/windows_auth02.jpg)
 
 3. 아래 명령어를 똑같이 입력해주고 마찬가지로 팝업창이 뜰때까지 기다려 줍니다.
 
@@ -61,7 +61,7 @@ slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 slmgr /skms kms8.msguides.com
 ```
 
-![windows_auth_03](https://gwanwoodev.github.io/assets/upload/windows_auth_03.jpg)
+![windows_auth_03](https://gwanwoodev.github.io/assets/upload/windows_auth03.jpg)
 
 4. 3번과 마찬가지로 아래 명령어를 입력해주고 기다려주면 끝입니다.
 
@@ -69,7 +69,7 @@ slmgr /skms kms8.msguides.com
 slmgr /ato
 ```
 
-![windows_auth_04](https://gwanwoodev.github.io/assets/upload/windows_auth_04.jpg)
+![windows_auth_04](https://gwanwoodev.github.io/assets/upload/windows_auth04.jpg)
 
 <b>내컴퓨터 - 속성</b> 을 확인해보면 정품인증 FLEX 되있는 것을 볼 수 있습니다!
 
