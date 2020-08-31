@@ -21,7 +21,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - { name: "Home", link: "/" }
-  - { name: "Categories", link: "/categories"}
+  - { name: "Categories", link: "/categories" }
   - { name: "About", link: "/about" }
   - { name: "Contact", link: "/contact" }
 
@@ -36,7 +36,7 @@ em: >
 
 lang: ko-kr
 
-hero_img: posts/march-logo.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/2020background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: gwanwoodev@kakao.com # email for form submission
 
