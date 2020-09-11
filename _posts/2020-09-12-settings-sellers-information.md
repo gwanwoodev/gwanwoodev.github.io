@@ -3,7 +3,7 @@ layout: post
 title: "구글 애드센스 sellers.json 설정 하는법"
 featured-img: settings_sellers_information
 categories: [Adsense]
-date: 2020-09-11 02:30
+date: 2020-09-12 12:20
 image: /assets/img/posts/settings_sellers_information_thumb.jpg
 author: gwanwoodev
 ---
