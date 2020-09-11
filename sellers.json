@@ -1,5 +1,12 @@
 {
-  "seller_id": "pub-5063646751585953",
-  "seller_type": "PUBLISHER",
-  "name": "gwanwoo park"
+  "contact_email": "devyeon1102@gmail.com",
+  "contact_address": "201-606 33, Hwagae 1-ro, Seo-gu, Gwangju, Republic of Korea",
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": "pub-5063646751585953",
+      "seller_type": "PUBLISHER",
+      "name": "Gwanwoo Park"
+    }
+  ]
 }
