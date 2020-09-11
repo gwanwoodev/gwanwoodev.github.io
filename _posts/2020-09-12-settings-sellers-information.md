@@ -41,7 +41,7 @@ author: gwanwoodev
 
 1. seller_id - 위에 웹게시자 ID에 해당한다.
 2. seller_type - 우리는 수익을 창출하는 사이트를 소유하고 있고, Google에서 수익을 지급받기 때문에 <b>PUBLISHER</b> 이다.
-3. name - 우리의 닉네임이나 이름을 의미하는것 같다. 업체같은경우는 회사 이름이면 될 것 같다.
+3. name - 우리의 이름을 의미한다. 업체같은경우는 회사 이름이면 될 것 같다.
 
 ![sellers04](https://gwanwoodev.github.io/assets/upload/sellers04.jpg)
 
@@ -52,6 +52,7 @@ author: gwanwoodev
 ![sellers05](https://gwanwoodev.github.io/assets/upload/sellers05.jpg)
 
 아래 내용들은 복사 붙여넣기 해서, 웹게시자 ID와 name만 바꿔서 sellers.json 으로 저장하면 된다.
+name같은 경우에는 결제 프로필과 연관되어 있으니, 실명을 영어로 써주면 될 것 같다.
 
 ```json
 {
@@ -68,3 +69,5 @@ author: gwanwoodev
 https://gwanwoodev.github.io/sellers.json 으로 접속했을때, 우리가 저장한 내용이 뜨게 하면 된다.
 
 티스토리같은 경우에는 자체적으로 관리자 페이지에서 할 수 있으니 참고하자.
+
+도움이 되었다면, 덧글과 좋아요를 부탁 합니다.
