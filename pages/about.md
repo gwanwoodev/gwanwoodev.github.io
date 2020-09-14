@@ -42,6 +42,21 @@ Software Engineer at
 
 - 국방부 장관상 수상 작품 [Be-Light](https://github.com/gwanwoodev/be-light)
 
+## Certificate
+
+- 워드프로세서 단일등급 2014.06
+- Oracle Certified Java Programmer(OCJP) 2015.01
+- 리눅스 마스터 2급 2015.07
+- DIAT 워드프로세서 고급 2015.06
+- DIAT 프리젠테이션 고급 2015.06
+- DIAT 스프레드시트 고급 2015.07
+- DIAT 멀티미디어 제작 고급 2015.07
+- GTQ Photoshop 1급 2015.10
+- 정보처리기능사 2015.12
+- 네트워크관리사 2급 2016.09
+- 컴퓨터 활용능력 1급 2016.12
+- 정보처리산업기사 2017.03
+
 ## Contact
 
 [Contact Me](https://gwanwoodev.github.io/contact)
