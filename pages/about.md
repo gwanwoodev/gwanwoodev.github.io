@@ -18,8 +18,8 @@ Software Engineer at
 
 ## Awards
 
-- 2019, 국방 오픈소스 아카데미 <span style="color:cornflowerblue; font-weight: bold;">국방부 장관상(1위)</span> 수상
 - 2016, 제 3회 디지털 정보활용 능력 경진대회 <span style="color:cornflowerblue; font-weight: bold;">시의장상</span> 수상
+- 2019, 국방 오픈소스 아카데미 <span style="color:cornflowerblue; font-weight: bold;">국방부 장관상(1위)</span> 수상
 
 ## Skills
 
