@@ -10,11 +10,12 @@ permalink: /about/
 
 Software Engineer at
 
-[Republic of Korea Army Ministry of National Defense](https://army.mil.kr/)
+[AwesomeDevlopers](https://어썸디벨로퍼스.com)
 
 ## Work Experience
 
 - 육군본부 SW 개발병 (2019.02.11 ~ 2020.09.16)
+- AwesomeDevelopers 대표이사 (2020.09.22 ~ )
 
 ## Awards
 
